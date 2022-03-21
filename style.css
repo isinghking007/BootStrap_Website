@@ -1,0 +1,23 @@
+.inner-class img{
+    width: 100%;
+    height: 600px;
+}
+.footer1{
+    height: 300px;
+    background-color: black;
+    position: absolute;
+    left: 0;
+    right: 0;
+    width: 100%;
+    color:#dc3545;
+    font-family: cursive;
+}
+.footer1 .row .col{
+    margin:10px;
+}
+.col-sm a{
+    display: inline-block;
+}
+.card-w{
+    width: 18%;
+}
